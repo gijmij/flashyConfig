@@ -1,1 +1,1 @@
-# flashyConfig
+25
